@@ -1,0 +1,15 @@
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\27 zadacha.csproj.AssemblyReference.cache
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\27 zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\27 zadacha.AssemblyInfoInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\27 zadacha.AssemblyInfo.cs
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\27 zadacha.csproj.CoreCompileInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\bin\Debug\net6.0\27 zadacha.exe
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\bin\Debug\net6.0\27 zadacha.deps.json
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\bin\Debug\net6.0\27 zadacha.runtimeconfig.json
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\bin\Debug\net6.0\27 zadacha.dll
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\bin\Debug\net6.0\27 zadacha.pdb
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\27 zadacha.dll
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\refint\27 zadacha.dll
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\27 zadacha.pdb
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\27 zadacha.genruntimeconfig.cache
+D:\Users\Ma3rs\Desktop\test folder\c# 4 семинар\27 zadacha\obj\Debug\net6.0\ref\27 zadacha.dll
